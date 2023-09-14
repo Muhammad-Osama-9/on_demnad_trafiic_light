@@ -14,4 +14,4 @@ If the pedestrians press the button for long time,  nothing will be happened
 ![image](/flow.png)
 
 ## ***Project Schematic***
-![image](/Project_Schematic.png)
+![image](/Project__Schematic.png)
