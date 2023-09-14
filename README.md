@@ -11,7 +11,7 @@ If the pedestrians press the button for long time,  nothing will be happened
 * Push Button
 * LED
 ## ***Project FlowChart***
-![image](/flow)
+![image](/flow.png)
 
 ## ***Project Schematic***
-![image](project on protues.png)
+![image](/Project_Schematic.png)
